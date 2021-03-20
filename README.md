@@ -1,2 +1,2 @@
 # maze-traversal
-A python project aimed at testing different search algorithms to traverse a maze
+A python project aimed at testing different search algorithms to generate and traverse a maze
